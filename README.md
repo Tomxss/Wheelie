@@ -9,3 +9,6 @@ although if past experiences have taught me anything about myself it's that I ha
 
 -2019/09/24- 16:20
 I have learn't that when you rename your README.md to something stupid like README_IF_YOU_DARE.md it no longer gets shown at the bottom of your git repo! aaah what fun.
+
+-2019/09/24- 16:30
+First objective for today is to find a suitable prefix for my functions, so that it does not clash against other libraries that might have the same name. I have chosen 'mof_' <-- this might change as I gain momentum.
